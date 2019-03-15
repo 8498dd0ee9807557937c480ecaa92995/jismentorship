@@ -1,0 +1,27 @@
+body,
+.cover,
+html{
+    height: 100%;
+}
+.cover {
+    background: url('home.jpg') top left no-repeat;
+    background-size: cover;
+    display: table;
+    width:100%;
+    padding: 0 20%;
+}
+.cover-text{
+    text-align: center;
+    color: black;
+     display: table-cell;
+    vertical-align: middle;
+   
+}
+.cover-text h2{
+    margin:0px;
+    font-size: 45px;
+    letter-spacing: -1px;
+}
+.butt{
+    margin: 10px;
+}
